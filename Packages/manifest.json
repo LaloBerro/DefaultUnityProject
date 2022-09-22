@@ -6,6 +6,7 @@
     "com.tgl.commandqueue": "https://github.com/TGL-Games/UnityPackage-CommandQueue.git",
     "com.tgl.commands": "https://github.com/TGL-Games/UnityPackage-Command.git",
     "com.tgl.customeditors": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
+    "com.tgl.factorymethod": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
     "com.tgl.installers": "https://github.com/TGL-Games/UnityPackage-Installers.git",
     "com.tgl.mvvmframework": "https://github.com/LaloBerro/UnityPackage-MVVMFramework.git",
     "com.tgl.sceneloader": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",

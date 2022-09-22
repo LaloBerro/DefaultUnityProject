@@ -42,6 +42,13 @@
       "dependencies": {},
       "hash": "030c236a2c743861356516f57351f3a55498923a"
     },
+    "com.tgl.factorymethod": {
+      "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "526e02a2681f7a7c806036869a43a5f01dc9d2b0"
+    },
     "com.tgl.installers": {
       "version": "https://github.com/TGL-Games/UnityPackage-Installers.git",
       "depth": 0,
