@@ -1,11 +1,13 @@
 {
   "dependencies": {
     "com.marijnzwemmer.unity-toolbar-extender": "https://github.com/marijnz/unity-toolbar-extender.git",
+    "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
     "com.tgl.backandforth": "https://github.com/TGL-Games/UnityPackage-Editor-BackAndForth.git",
     "com.tgl.commandqueue": "https://github.com/TGL-Games/UnityPackage-CommandQueue.git",
     "com.tgl.commands": "https://github.com/TGL-Games/UnityPackage-Command.git",
     "com.tgl.customeditors": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
     "com.tgl.installers": "https://github.com/TGL-Games/UnityPackage-Installers.git",
+    "com.tgl.mvvmframework": "https://github.com/LaloBerro/UnityPackage-MVVMFramework.git",
     "com.tgl.sceneloader": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
     "com.tgl.servicelocator": "https://github.com/TGL-Games/UnityPackage-ServiceLocator.git",
     "com.tgl.singleton": "https://github.com/TGL-Games/UnityPackage-Singleton.git",
