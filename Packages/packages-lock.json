@@ -61,7 +61,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "976645cc90ad4616f6105972ad1e019039236131"
+      "hash": "e202311db26b415b077dbaf07bc2891920723716"
     },
     "com.tgl.sceneloader": {
       "version": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
