@@ -95,6 +95,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Default - Button With Text Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 6826876608867028199, guid: e563b6c99bf9ea844afb42774ce14bc7, type: 3}
+      propertyPath: m_PixelsPerUnitMultiplier
+      value: 24.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e563b6c99bf9ea844afb42774ce14bc7, type: 3}
 --- !u!224 &2232420070916087819 stripped
