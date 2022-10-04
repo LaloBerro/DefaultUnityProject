@@ -40,7 +40,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "030c236a2c743861356516f57351f3a55498923a"
+      "hash": "68b9ed93fc2d3c9b501b52759ba7b13de1fb3403"
     },
     "com.tgl.factorymethod": {
       "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
@@ -61,7 +61,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e202311db26b415b077dbaf07bc2891920723716"
+      "hash": "06b5c5b381edde1273e0c604c2679f5c9f29a328"
     },
     "com.tgl.sceneloader": {
       "version": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
