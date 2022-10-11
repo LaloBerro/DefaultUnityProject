@@ -1,8 +1,8 @@
 {
   "dependencies": {
+    "com.lalo.gitdependencyresolver": "https://github.com/LaloBerro/UPM-GitDependecyResolver.git",
     "com.marijnzwemmer.unity-toolbar-extender": "https://github.com/marijnz/unity-toolbar-extender.git",
     "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts",
-    "com.tgl.backandforth": "https://github.com/TGL-Games/UnityPackage-Editor-BackAndForth.git",
     "com.tgl.commandqueue": "https://github.com/TGL-Games/UnityPackage-CommandQueue.git",
     "com.tgl.commands": "https://github.com/TGL-Games/UnityPackage-Command.git",
     "com.tgl.customeditors": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
