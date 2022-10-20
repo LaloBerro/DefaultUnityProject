@@ -26,7 +26,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1e2528a522e9b2d39dd683e298de51218d616e8a"
+      "hash": "fb4560abce3047f01e9db66ceb0206872c3a2ead"
     },
     "com.tgl.commands": {
       "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
@@ -47,7 +47,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "68b9ed93fc2d3c9b501b52759ba7b13de1fb3403"
+      "hash": "8894d6499deacc37462d03ea96b743ece6cd61e8"
     },
     "com.tgl.factorymethod": {
       "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
@@ -82,7 +82,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d40ce8e4a6a828f39623333b63a806b7ade66853"
+      "hash": "46a3c49c6a28ad762650c677cb054ea29e4be7b3"
     },
     "com.tgl.servicelocator": {
       "version": "https://github.com/TGL-Games/UnityPackage-ServiceLocator.git",
@@ -97,6 +97,13 @@
       "source": "git",
       "dependencies": {},
       "hash": "5a63d128826f4f5d44baa0db96ae706476837ba9"
+    },
+    "com.tgl.zenjectextensions": {
+      "version": "https://github.com/TGL-Games/UnityPackage-ZenjectExtensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a4b18cee144dc95d0bb033c120d43938bdabdbcc"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
