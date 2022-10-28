@@ -75,7 +75,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "70bedbea803ba9025942398c7be2ff2ca1a90067"
+      "hash": "96594d9250215849ca163ec609fa6767578f387d"
     },
     "com.tgl.sceneloader": {
       "version": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
@@ -125,15 +125,6 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.ide.rider": {
-      "version": "3.0.15",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.ext.nunit": "1.0.6"
-      },
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
@@ -243,7 +234,7 @@
     },
     "com.unity.timeline": {
       "version": "1.6.4",
-      "depth": 0,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.director": "1.0.0",
