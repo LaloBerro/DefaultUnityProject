@@ -33,21 +33,21 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d7984ecbf884612d7e6643763b371ca9d8723f25"
+      "hash": "b3d81ffffc4a34907c73e2f3b0652c7fbcc17fbb"
     },
     "com.tgl.createfolderprojectitem": {
       "version": "https://github.com/TGL-Games/UnityPackage-Editor-CreateFolderProjectItem.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1500408db61c9f79066d3f5b06e5f34b704d5417"
+      "hash": "32e437741fbd0f2bb1fa149a238bc3fb696859be"
     },
     "com.tgl.customeditors": {
       "version": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d8738a4eebffd9ec8787bc1fbad15d5863ce0f3f"
+      "hash": "0f5bd820c232094950a5e109d80b84ac8920092a"
     },
     "com.tgl.editorcanvasview": {
       "version": "https://github.com/TGL-Games/UnityPackage-Editor-CanvasView.git",
