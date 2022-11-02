@@ -40,7 +40,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "033a5a5ef00a63cd2c65e4072cfc4ad4bf090d44"
+      "hash": "1500408db61c9f79066d3f5b06e5f34b704d5417"
     },
     "com.tgl.customeditors": {
       "version": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
@@ -103,7 +103,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a4b18cee144dc95d0bb033c120d43938bdabdbcc"
+      "hash": "e87ba70d742ffb7d80d514c1040cbe7d467e2c53"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
