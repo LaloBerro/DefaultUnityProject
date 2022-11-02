@@ -47,7 +47,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "8894d6499deacc37462d03ea96b743ece6cd61e8"
+      "hash": "d8738a4eebffd9ec8787bc1fbad15d5863ce0f3f"
+    },
+    "com.tgl.editorcanvasview": {
+      "version": "https://github.com/TGL-Games/UnityPackage-Editor-CanvasView.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1937a641118e133224dd47161d437f11d2d09a96"
     },
     "com.tgl.factorymethod": {
       "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",

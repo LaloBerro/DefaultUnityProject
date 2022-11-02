@@ -7,6 +7,7 @@
     "com.tgl.commands": "https://github.com/TGL-Games/UnityPackage-Command.git",
     "com.tgl.createfolderprojectitem": "https://github.com/TGL-Games/UnityPackage-Editor-CreateFolderProjectItem.git",
     "com.tgl.customeditors": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
+    "com.tgl.editorcanvasview": "https://github.com/TGL-Games/UnityPackage-Editor-CanvasView.git",
     "com.tgl.factorymethod": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
     "com.tgl.installers": "https://github.com/TGL-Games/UnityPackage-Installers.git",
     "com.tgl.mvvmframework": "https://github.com/LaloBerro/UPM-MVVMFramework.git",
