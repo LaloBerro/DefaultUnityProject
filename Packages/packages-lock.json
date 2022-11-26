@@ -1,11 +1,81 @@
 {
   "dependencies": {
+    "com.lalo.command": {
+      "version": "https://github.com/LaloBerro/UPM-Command.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9a29d8ad923bbdc88f9910cff56e6576373924ea"
+    },
+    "com.lalo.commandqueue": {
+      "version": "https://github.com/LaloBerro/UPM-CommandQueue.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "82d1a4f97d579275b679dfbb5e11d78a53f572af"
+    },
+    "com.lalo.commands": {
+      "version": "https://github.com/LaloBerro/UPM-Command.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d99a73009492e76519634e93803c8979f34ed91b"
+    },
+    "com.lalo.createfolderprojectitem": {
+      "version": "https://github.com/LaloBerro/UPM-CreateFolderProjectItem.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "aabcea9f1296a4c1f474b6964c4f300749edfb6e"
+    },
+    "com.lalo.customeditors": {
+      "version": "https://github.com/LaloBerro/UPM-CustomEditors.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9b2a50bc874694022047adea76818a91dd203bc8"
+    },
+    "com.lalo.editorcanvasview": {
+      "version": "https://github.com/LaloBerro/UPM-CanvasView.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "041dec384928d00377125947bc30527b26ddf245"
+    },
     "com.lalo.gitdependencyresolver": {
       "version": "https://github.com/LaloBerro/UPM-GitDependecyResolver.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "557770a43f5dffc13a4458eede01f1ed513de9b6"
+    },
+    "com.lalo.mvvmframework": {
+      "version": "https://github.com/LaloBerro/UPM-MVVMFramework.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "835e37a304ef990f35bb2231d20ca23622b41553"
+    },
+    "com.lalo.reloadassemblylock": {
+      "version": "https://github.com/LaloBerro/UPM-ReloadAssemblyLock.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3bca4ed113eecdc81680e87e6e3f6e25c74b043b"
+    },
+    "com.lalo.sceneloader": {
+      "version": "https://github.com/LaloBerro/UPM-SceneLoader.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d2fb7f99a6febb748798f84eb5c99c79d3d8d119"
+    },
+    "com.lalo.scenesnavigator": {
+      "version": "https://github.com/LaloBerro/UPM-ScenesNavigator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "83448aa04475fe299e1b8473e0c3c5f6d7becab4"
     },
     "com.marijnzwemmer.unity-toolbar-extender": {
       "version": "https://github.com/marijnz/unity-toolbar-extender.git",
@@ -21,41 +91,6 @@
       "dependencies": {},
       "hash": "284d5c50d3f1ddd9fa7df3d382ea904732a9c2ff"
     },
-    "com.tgl.commandqueue": {
-      "version": "https://github.com/TGL-Games/UnityPackage-CommandQueue.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "fb4560abce3047f01e9db66ceb0206872c3a2ead"
-    },
-    "com.tgl.commands": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "b3d81ffffc4a34907c73e2f3b0652c7fbcc17fbb"
-    },
-    "com.tgl.createfolderprojectitem": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Editor-CreateFolderProjectItem.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "32e437741fbd0f2bb1fa149a238bc3fb696859be"
-    },
-    "com.tgl.customeditors": {
-      "version": "https://github.com/TGL-Games/UnityPackage-CustomEditors.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "0f5bd820c232094950a5e109d80b84ac8920092a"
-    },
-    "com.tgl.editorcanvasview": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Editor-CanvasView.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "1937a641118e133224dd47161d437f11d2d09a96"
-    },
     "com.tgl.factorymethod": {
       "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
       "depth": 0,
@@ -69,27 +104,6 @@
       "source": "git",
       "dependencies": {},
       "hash": "2ae342171cd8d2cd7dd52a38c9954113b6f4374d"
-    },
-    "com.tgl.mvvmframework": {
-      "version": "https://github.com/LaloBerro/UPM-MVVMFramework.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "d36251330b4d70252c7eb513efa3b859b8ef58d4"
-    },
-    "com.tgl.reloadassemblylock": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Editor-ReloadAssemblyLock.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "96594d9250215849ca163ec609fa6767578f387d"
-    },
-    "com.tgl.sceneloader": {
-      "version": "https://github.com/TGL-Games/UnityPackage-SceneLoader.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "46a3c49c6a28ad762650c677cb054ea29e4be7b3"
     },
     "com.tgl.servicelocator": {
       "version": "https://github.com/TGL-Games/UnityPackage-ServiceLocator.git",
