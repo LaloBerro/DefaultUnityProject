@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.lalo.command": {
-      "version": "https://github.com/LaloBerro/UPM-Command.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "9a29d8ad923bbdc88f9910cff56e6576373924ea"
-    },
     "com.lalo.commandqueue": {
       "version": "https://github.com/LaloBerro/UPM-CommandQueue.git",
       "depth": 0,
@@ -33,7 +26,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "9b2a50bc874694022047adea76818a91dd203bc8"
+      "hash": "32cc9e1147cb3cf53e706c33c1e86866dc89a716"
     },
     "com.lalo.editorcanvasview": {
       "version": "https://github.com/LaloBerro/UPM-CanvasView.git",
@@ -42,12 +35,26 @@
       "dependencies": {},
       "hash": "041dec384928d00377125947bc30527b26ddf245"
     },
+    "com.lalo.factorymethod": {
+      "version": "https://github.com/LaloBerro/UPM-FactoryMethod.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e4cbef265c8ca1d4b55001bd017d610840ef80e8"
+    },
     "com.lalo.gitdependencyresolver": {
       "version": "https://github.com/LaloBerro/UPM-GitDependecyResolver.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "557770a43f5dffc13a4458eede01f1ed513de9b6"
+    },
+    "com.lalo.installers": {
+      "version": "https://github.com/LaloBerro/UPM-Installers.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9c2217a131c63760cd847d975039787b64d6be18"
     },
     "com.lalo.mvvmframework": {
       "version": "https://github.com/LaloBerro/UPM-MVVMFramework.git",
@@ -75,7 +82,28 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "83448aa04475fe299e1b8473e0c3c5f6d7becab4"
+      "hash": "69e0a43ec04ea264048a1727101f968e1f204373"
+    },
+    "com.lalo.servicelocator": {
+      "version": "https://github.com/LaloBerro/UPM-ServiceLocator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "40648dd7038c6e4f92f6eb3740c40593af92f3c7"
+    },
+    "com.lalo.singleton": {
+      "version": "https://github.com/LaloBerro/UPM-Singleton.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2ec313bb664fee46c5d1ed7b6821aa7f9c3d7888"
+    },
+    "com.lalo.zenjectextensions": {
+      "version": "https://github.com/LaloBerro/UPM-ZenjectExtensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a4c8d1dc63ea7efb093e7cdb4cacae6e787f1ef6"
     },
     "com.marijnzwemmer.unity-toolbar-extender": {
       "version": "https://github.com/marijnz/unity-toolbar-extender.git",
@@ -90,41 +118,6 @@
       "source": "git",
       "dependencies": {},
       "hash": "284d5c50d3f1ddd9fa7df3d382ea904732a9c2ff"
-    },
-    "com.tgl.factorymethod": {
-      "version": "https://github.com/TGL-Games/UnityPackage-FactoryMethod.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "526e02a2681f7a7c806036869a43a5f01dc9d2b0"
-    },
-    "com.tgl.installers": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Installers.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "2ae342171cd8d2cd7dd52a38c9954113b6f4374d"
-    },
-    "com.tgl.servicelocator": {
-      "version": "https://github.com/TGL-Games/UnityPackage-ServiceLocator.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "03391234b05af064f4f1a9aac087280398d0cb56"
-    },
-    "com.tgl.singleton": {
-      "version": "https://github.com/TGL-Games/UnityPackage-Singleton.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "5a63d128826f4f5d44baa0db96ae706476837ba9"
-    },
-    "com.tgl.zenjectextensions": {
-      "version": "https://github.com/TGL-Games/UnityPackage-ZenjectExtensions.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "e87ba70d742ffb7d80d514c1040cbe7d467e2c53"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -165,7 +158,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.4.3",
+      "version": "1.5.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
