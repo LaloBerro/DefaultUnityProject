@@ -5,21 +5,21 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "82d1a4f97d579275b679dfbb5e11d78a53f572af"
+      "hash": "983b893d820b04f5f6c352355103fe9605b1637e"
     },
     "com.lalo.commands": {
-      "version": "https://github.com/LaloBerro/UPM-Command.git",
+      "version": "https://github.com/TGL-Games/UnityPackage-Command.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d99a73009492e76519634e93803c8979f34ed91b"
+      "hash": "49ea1fa95aa476a97c717c52a11c4071a80a0196"
     },
     "com.lalo.createfolderprojectitem": {
       "version": "https://github.com/LaloBerro/UPM-CreateFolderProjectItem.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "aabcea9f1296a4c1f474b6964c4f300749edfb6e"
+      "hash": "b8be3502b463df0bc973b6f0a32b4cf954e45d41"
     },
     "com.lalo.customeditors": {
       "version": "https://github.com/LaloBerro/UPM-CustomEditors.git",
@@ -47,7 +47,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "557770a43f5dffc13a4458eede01f1ed513de9b6"
+      "hash": "68d820e61960979aea5e82ea6d8fd98a8c366a56"
     },
     "com.lalo.installers": {
       "version": "https://github.com/LaloBerro/UPM-Installers.git",
@@ -61,21 +61,21 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "835e37a304ef990f35bb2231d20ca23622b41553"
+      "hash": "6ecc7aafd17a8d88bf496e4a0b7bee647ca7a388"
     },
     "com.lalo.reloadassemblylock": {
       "version": "https://github.com/LaloBerro/UPM-ReloadAssemblyLock.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "3bca4ed113eecdc81680e87e6e3f6e25c74b043b"
+      "hash": "895aa65ba1dd1af940ff6b86e873b53bc1db8670"
     },
     "com.lalo.sceneloader": {
       "version": "https://github.com/LaloBerro/UPM-SceneLoader.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d2fb7f99a6febb748798f84eb5c99c79d3d8d119"
+      "hash": "7540cd17577f399b62f350db86d515798c446586"
     },
     "com.lalo.scenesnavigator": {
       "version": "https://github.com/LaloBerro/UPM-ScenesNavigator.git",
@@ -89,7 +89,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "40648dd7038c6e4f92f6eb3740c40593af92f3c7"
+      "hash": "8b75b5ce2865f64c6e9af0edb1170302451894dd"
     },
     "com.lalo.singleton": {
       "version": "https://github.com/LaloBerro/UPM-Singleton.git",
@@ -103,7 +103,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a4c8d1dc63ea7efb093e7cdb4cacae6e787f1ef6"
+      "hash": "b604e1f759c234e37068dd978c1f046c19d59856"
     },
     "com.marijnzwemmer.unity-toolbar-extender": {
       "version": "https://github.com/marijnz/unity-toolbar-extender.git",
